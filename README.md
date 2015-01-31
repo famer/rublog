@@ -9,9 +9,7 @@ procedure to create github pages only branch:
 
 4. Create new jekyll site with same name. User --force to put it there
 		
-	git add --all
-	git commit -m "init"
-	git push
+	jekyll new rublog --force
 
 After that you will have dir called as your repository with only one branch `gh-pages` and all remotes configured.
 
