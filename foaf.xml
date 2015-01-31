@@ -1,0 +1,15 @@
+
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<http://famer.github.io/#person> a foaf:Person;
+    foaf:name "Timur Tatarshaov" ;
+    foaf:mbox <mailto:tatartim@fit.cvut.cz> ;
+    foaf:homepage <http://famer.github.io> ;
+    foaf:nick "gorbierd" ;
+    foaf:img <https://usermap.cvut.cz/photos/tatartim?type=jpg> ;
+    foaf:interest <http://www.wikimapia.org>  ;
+    foaf:knows [
+        a foaf:Person ;
+        foaf:name "Oleg Gul"
+    ] .
+
