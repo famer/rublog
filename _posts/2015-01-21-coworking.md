@@ -28,7 +28,7 @@ tags: Education Coworking Прага
 
 Вся суть(помимо удобного рабочего места со столами, досками, принтерами и интернетом) — обмен опытом с людьми той же среды, хорошо изображена в этом ролике коворкинга силиконовой долины.
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/mcg2By317ZI" frameborder="0" allowfullscreen></iframe>
+<iframe class="shadow" width="420" height="315" src="http://www.youtube.com/embed/mcg2By317ZI" frameborder="0" allowfullscreen></iframe>
 
 
 
