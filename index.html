@@ -10,7 +10,7 @@ layout: default
     {% assign posts = site.posts %}
     {% for post in posts %}
       <li>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span class="post-meta">{{ post.date | date: "%-d %-m, %Y" }}</span></a>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><span class="post-meta">{% include date.html date=post.date %}</span></a>
 
         <h2>
 		{% if post.categories contains "guest" %}
