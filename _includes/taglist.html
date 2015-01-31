@@ -1,0 +1,12 @@
+{% if post.tags %}
+	{% assign tags = post.tags %}
+{% elsif page.tags %}
+	{% assign tags = page.tags %}
+{% endif %}
+<!--div class="tags">
+	tags: [
+	{% for tag in tags %}
+	<a href="/tags/#{{ tag }}">#{{ tag | replace:' ','' | downcase }}</a>
+	{% endfor %}
+	]
+</div-->
