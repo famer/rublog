@@ -18,3 +18,7 @@ After that use usual:
 	git add --all
 	git commit -m "init"
 	git push
+
+
+Optionally you can make gh-pages default branch for you repository:
+![gh-pages default branch](https://pages.github.com/images/default-branch@2x.png)
