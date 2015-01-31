@@ -2,10 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+menuIndex: 2
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am Timur Tatarshaov: web developer, mobile developer, writer and aestetic.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+You can check out my [blog](/) and [projects](/projects/).
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+`CV:` [in PDF format]({{ site.baseurl }}/assets/CV-Timur.pdf) (79Kb)
+
+`LinkedIn profile:` <a href="http://cz.linkedin.com/in/ttatarshaov" style="text-decoration:none;"><span style="font: 80% Arial,sans-serif; color:#0783B6;">![View Timur Tatarshaov's LinkedIn profile](https://static.licdn.com/scds/common/u/img/webpromo/btn_in_20x15.png){:.noshadow width="20px" height="15px"}&nbsp;View Timur Tatarshaov's profile</span></a>
+

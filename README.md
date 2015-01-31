@@ -12,6 +12,7 @@ procedure to create github pages only branch:
 After that you will have dir called as your repository with only one branch `gh-pages` and all remotes configured.
 
 After that use usual:
+
     git add --all
 	git commit -m "init"
 	git push
