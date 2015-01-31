@@ -3,6 +3,7 @@ title: Блог
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Блог обо всём на свете. 
+  
   Меня зовут Тимур. Я веб и мобильный разработчик, писатель и эстет.
 baseurl: "/rublog/" # the subpath of your site, e.g. /blog/
 url: "http://famer.github.io/" # the base hostname & protocol for your site
