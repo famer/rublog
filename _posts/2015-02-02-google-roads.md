@@ -9,7 +9,7 @@ tags: Google, Tech, Maps
 
 Например на карте пешеходная дорожка есть и выглядит так:
 
-![google maps road]({{ site.baseurl }}/assets/Tech/google-roads-map.jpg)
+![google maps road]({{ site.baseurl }}/assets/Tech/google-roads-map.png)
 
 В реальности она просто протоптана по газону ввиду лени и оптимизации:
 
