@@ -13,6 +13,6 @@ tags: Google, Tech, Maps
 
 В реальности она просто протоптана по газону ввиду лени и оптимизации:
 
-![google maps real road photo]({{ site.baseurl }}/assets/Tech/google-roads-photo.jpg)
+![google maps real road photo]({{ site.baseurl }}/assets/Tech/google-roads-photo.jpg){: width="300px"}
 
-Убедиться можно здесь [ссылка на карту](https://www.google.com/maps/@50.100591,14.3876667,19z)
+Убедиться можно здесь: [ссылка на карту](https://www.google.com/maps/@50.100591,14.3876667,19z)
