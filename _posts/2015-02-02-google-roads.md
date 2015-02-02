@@ -9,10 +9,12 @@ tags: Google, Tech, Maps
 
 Например на карте пешеходная дорожка есть и выглядит так:
 
-![google maps road]({{ site.baseurl }}/assets/Tech/google-roads-map.png)
+![google maps road]({{ site.baseurl }}/assets/Tech/google-roads-map.png){: width="300px"}
 
 В реальности она просто протоптана по газону ввиду лени и оптимизации:
 
-![google maps real road photo]({{ site.baseurl }}/assets/Tech/google-roads-photo.jpg){: width="300px"}
+![google maps real road photo]({{ site.baseurl }}/assets/Tech/google-roads-photo.jpg)
 
 Убедиться можно здесь: [ссылка на карту](https://www.google.com/maps/@50.100591,14.3876667,19z)
+
+Остается только гадать какие объемы данных гугл анализирует на своих серверах, обрабатывая огромное количество отснятых фотографий.
