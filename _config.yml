@@ -1,5 +1,6 @@
 # Site settings
 title: Блог
+permalink: :year/:month/:day/:title.html
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Блог обо всём на свете. 
