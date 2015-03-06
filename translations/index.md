@@ -3,6 +3,7 @@ title: "Переводы"
 categories: Translations
 published: true
 layout: page
+hideFromNav: false
 ---
 
 ### Итальянский язык жестов
