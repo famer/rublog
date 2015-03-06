@@ -1,6 +1,6 @@
 ---
 title: "Почему образование важно"
-categories: "Образование"
+categories: "Education"
 tags: ["Образование"]
 published: true
 ---
