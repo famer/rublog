@@ -1,7 +1,10 @@
 ---
 title: Чем заняться в Праге в период обучения
+layout: post
 created_date: 2015-03-12
 ---
+updated at: {{ page.date | date: "%Y-%-m-%-d"}}
+created at: {{ page.created_date }}
 
 План:
 
